@@ -1,10 +1,15 @@
 # 🏠 KosFinder
 
+![Android](https://img.shields.io/badge/Android-Kotlin-green?logo=android)
+![Laravel](https://img.shields.io/badge/Laravel-PHP-red?logo=laravel)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
+
 ## 📖 Deskripsi Aplikasi
 
 **KosFinder** adalah aplikasi berbasis Android yang dirancang untuk membantu pengguna mencari, melihat informasi, dan memesan kos dengan lebih mudah dan cepat.
 
-Pengguna dapat melihat daftar kos yang tersedia, detail fasilitas, harga sewa, lokasi, ulasan penghuni, serta melakukan pemesanan dan pembayaran secara online. Selain itu, pemilik kos dapat mengelola data kos dan memantau pemesanan melalui sistem yang terintegrasi dengan backend Laravel dan database MySQL.
+Melalui aplikasi ini, pengguna dapat melihat daftar kos yang tersedia, informasi fasilitas, harga sewa, lokasi, ulasan penghuni, hingga melakukan pemesanan dan pembayaran secara online. Selain itu, pemilik kos dapat mengelola data kos dan memantau pemesanan melalui sistem yang terintegrasi dengan backend Laravel dan database MySQL.
 
 ---
 
@@ -21,15 +26,15 @@ Pengguna dapat melihat daftar kos yang tersedia, detail fasilitas, harga sewa, l
 
 ## 📋 Pembagian Tugas
 
-| Tugas                                 | Penanggung Jawab                                 | Status |
-| ------------------------------------- | ------------------------------------------------ | ------ |
-| Laporan Analisis Kebutuhan Data       | Enzo Faeyza Aza Hafuza                           | ✅      |
-| Source Code Android & Backend Laravel | Mochamad Zildan Al Asrof, Enzo Faeyza Aza Hafuza | ✅      |
-| UI Design / Prototype                 | Abyan Raditya Saputra                            | ✅      |
-| Dokumentasi Pengujian                 | Aufa Rakha Aesar Aulayain                        | ✅      |
-| Video Demo Aplikasi                   | Mochamad Zildan Al Asrof                         | ✅      |
-| Poster Aplikasi                       | Aufa Rakha Aesar Aulayain                        | ✅      |
-| README & Repository GitHub            | Enzo Faeyza Aza Hafuza                           | ✅      |
+| Tugas                                 | Penanggung Jawab                                                            | Status |
+| ------------------------------------- | --------------------------------------------------------------------------- | ------ |
+| Laporan Analisis Kebutuhan Data       | Enzo Faeyza Aza Hafuza                                                      | ✅      |
+| Source Code Android & Backend Laravel | Mochamad Zildan Al Asrof, Enzo Faeyza Aza Hafuza                            | ✅      |
+| UI Design / Prototype                 | Abyan Raditya Saputra                                                       | ✅      |
+| Dokumentasi Pengujian                 | Aufa Rakha Aesar Aulayain                                                   | ✅      |
+| Video Demo Aplikasi                   | Mochamad Zildan Al Asrof                                                    | ✅      |
+| Poster Aplikasi                       | Aufa Rakha Aesar Aulayain                                                   | ✅      |
+| README & Repository GitHub            | Mochamad Zildan Al Asrof (GitHub), Enzo Faeyza Aza Hafuza (GitHub & README) | ✅      |
 
 ---
 
@@ -46,7 +51,7 @@ Pengguna dapat melihat daftar kos yang tersedia, detail fasilitas, harga sewa, l
 
 ## ✨ Fitur Utama
 
-### Untuk Pengguna
+### 👤 Untuk Pengguna
 
 * Registrasi dan Login
 * Melihat daftar kos
@@ -57,7 +62,7 @@ Pengguna dapat melihat daftar kos yang tersedia, detail fasilitas, harga sewa, l
 * Riwayat pemesanan
 * Memberikan ulasan dan rating
 
-### Untuk Pemilik Kos
+### 🏢 Untuk Pemilik Kos
 
 * Menambahkan data kos
 * Mengelola data kos
@@ -70,11 +75,11 @@ Pengguna dapat melihat daftar kos yang tersedia, detail fasilitas, harga sewa, l
 
 ### Android Application
 
-👉 https://github.com/zilds/Kosfinder/tree/LatestUpdateAndroid
+🔗 https://github.com/zilds/Kosfinder
 
 ### Laravel API
 
-👉 https://github.com/EnzoFaeyza/Kosfinder-LaravelAPI
+🔗 https://github.com/EnzoFaeyza/Kosfinder-LaravelAPI
 
 ---
 
@@ -82,11 +87,12 @@ Pengguna dapat melihat daftar kos yang tersedia, detail fasilitas, harga sewa, l
 
 Download APK:
 
-👉 https://drive.google.com/drive/folders/1bI3x27VQrhLg7-sSx68zyM_ltXAd92cb?usp=sharing
+🔗 https://drive.google.com/drive/folders/1bI3x27VQrhLg7-sSx68zyM_ltXAd92cb?usp=sharing
 
 ---
 
-
 ## 📄 Lisensi
 
-Proyek ini dibuat untuk kebutuhan pembelajaran dan tugas pengembangan aplikasi mobile.
+Proyek ini dibuat untuk keperluan pembelajaran dan tugas pengembangan aplikasi mobile.
+
+© 2026 Kelompok KosFinder
